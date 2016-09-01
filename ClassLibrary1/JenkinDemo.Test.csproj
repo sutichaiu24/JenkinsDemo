@@ -52,7 +52,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CIDemo\JenkinDemo.csproj">
+    <ProjectReference Include="..\JenkinDemo\JenkinDemo.csproj">
       <Project>{f017249a-5f74-4d60-813d-4c1c4b6670bb}</Project>
       <Name>JenkinDemo</Name>
     </ProjectReference>

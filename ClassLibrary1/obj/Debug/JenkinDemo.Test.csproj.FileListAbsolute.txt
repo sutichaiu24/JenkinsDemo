@@ -7,3 +7,12 @@ C:\Users\oah.s\Documents\CIDemo\CIDemo\ClassLibrary1\bin\Debug\nunit.framework.x
 C:\Users\oah.s\Documents\CIDemo\CIDemo\ClassLibrary1\obj\Debug\JenkinDemo.Test.csprojResolveAssemblyReference.cache
 C:\Users\oah.s\Documents\CIDemo\CIDemo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\oah.s\Documents\CIDemo\CIDemo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\bin\Debug\CIDemo.dll
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\bin\Debug\CIDemo.pdb
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\obj\Debug\JenkinDemo.Test.csprojResolveAssemblyReference.cache
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
