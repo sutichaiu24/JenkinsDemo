@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\CIDemo.dll.config
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\CIDemo.dll
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\CIDemo.pdb
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\NSubstitute.dll
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\NSubstitute.xml
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\obj\Debug\CIDemo.dll
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\obj\Debug\CIDemo.pdb
+C:\Program Files (x86)\Jenkins\workspace\CIDemo\CIDemo\CIDemo\obj\Debug\CIDemo.csprojResolveAssemblyReference.cache
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\CIDemo.dll.config
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\CIDemo.dll
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\CIDemo.pdb
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\NSubstitute.dll
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\nunit.framework.dll
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\NSubstitute.xml
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\bin\Debug\nunit.framework.xml
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\obj\Debug\CIDemo.csprojResolveAssemblyReference.cache
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\obj\Debug\CIDemo.dll
+C:\Users\oah.s\Documents\CIDemo\CIDemo\CIDemo\obj\Debug\CIDemo.pdb
