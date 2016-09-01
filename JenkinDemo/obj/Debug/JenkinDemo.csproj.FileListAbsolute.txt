@@ -5,6 +5,5 @@ C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\bin\Debug\NSubstitute
 C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\bin\Debug\nunit.framework.dll
 C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\bin\Debug\NSubstitute.xml
 C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\bin\Debug\nunit.framework.xml
-C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\obj\Debug\JenkinDemo.csprojResolveAssemblyReference.cache
 C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\obj\Debug\CIDemo.dll
 C:\Users\oah.s\Documents\JenkinDemo\JenkinsDemo\JenkinDemo\obj\Debug\CIDemo.pdb

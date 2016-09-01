@@ -45,7 +45,7 @@ namespace CIDemo.Tests
             Assert.IsTrue(actual > 0);
             Assert.AreEqual(20000d, actual);
         }
-
+        
     }
 }
 
