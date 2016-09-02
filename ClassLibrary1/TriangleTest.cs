@@ -18,9 +18,10 @@ namespace CIDemo.Tests
         {
             ShapeCalculator = new Triangle();
         }
-        [TestCase(4,8)]
-        [TestCase(2,4)]
-        public void TriangleCalculation_WithPositiveValue_ShouldCalculate(int width, int height)
+      
+        [TestCase(4,8,16)]
+        [TestCase(2,4,4)]
+        public void TriangleCalculation_WithPositiveValue_ShouldCalculate(int width, int height, int area)
         {
             //Arrange
            
@@ -29,7 +30,7 @@ namespace CIDemo.Tests
             var actual = ShapeCalculator.CalculateSurface(width, height);
 
             //Assert
-            Assert.AreEqual(4, actual);
+            Assert.AreEqual(area, actual);
         }
 
       
