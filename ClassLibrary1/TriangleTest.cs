@@ -19,8 +19,8 @@ namespace CIDemo.Tests
             ShapeCalculator = new Triangle();
         }
       
-        [TestCase(4,8,16)]
-        [TestCase(2,4,4)]
+        [TestCase(4,8,2)]
+     //   [TestCase(2,4,4)]
         public void TriangleCalculation_WithPositiveValue_ShouldCalculate(int width, int height, int area)
         {
             //Arrange
